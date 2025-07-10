@@ -28,6 +28,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/weather")
 @Slf4j
 public class WeatherController {
+  
+  //volkan branch commiti
 
 
   // ✅ GET: RequestParam örneği + Cacheable
