@@ -33,7 +33,6 @@ public class WeatherController {
 
   //conflict için ben de değişiklik yaptım
 
-
   // ✅ GET: RequestParam örneği + Cacheable
   @GetMapping("/getByParam")
   public WeatherInfo getWeatherByParam(
