@@ -31,6 +31,8 @@ public class WeatherController {
   
   //volkan branch commiti
 
+  // conflict için atılan commit
+
 
   // ✅ GET: RequestParam örneği + Cacheable
   @GetMapping("/getByParam")
